@@ -1,6 +1,7 @@
 # Diabetes Data Analysis
 
-This project aims to analyze diabetes data and develop machine learning models for diabetes diagnosis. The analysis is performed using the **Pima Indians Diabetes Dataset**, which contains 768 samples and 8 features. Each feature is used to predict whether a person has diabetes or not.
+This project aims to analyze diabetes data and develop machine learning models for diabetes diagnosis. The analysis was performed using 768 samples and 8 features. Each feature is used to predict whether a person has diabetes or not.
+Dataset: https://www.kaggle.com/datasets/shantanudhakadd/diabetes-dataset-for-beginners
 
 ## Project Overview
 
